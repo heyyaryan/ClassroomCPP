@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589168479 source:d:\codes\classroomcpp\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+
